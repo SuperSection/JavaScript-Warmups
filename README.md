@@ -1,2 +1,3 @@
 # JavaScript-Warmups
-Small but effective and important pravtice problems are included in the Repo.
+- Small but effective and important practice problems are included in the Repo.
+- Vanilla JS projects.
